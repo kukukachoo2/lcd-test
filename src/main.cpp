@@ -1,7 +1,7 @@
 #include <U8g2lib.h> 
 
 U8G2_SSD1306_128X64_NONAME_F_SW_I2C u8g2(U8G2_R0, SCL, SDA, U8X8_PIN_NONE);
-// this is a new comment
+
 // void setup(void) {
 //   u8g2.begin();
 // }
